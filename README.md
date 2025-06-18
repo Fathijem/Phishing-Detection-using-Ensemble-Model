@@ -79,7 +79,9 @@ Ensure flask server is running in the background.
 Type in any URL in the chrome extension to detect if it's legitimate or phishing website.
 
 Safe Website detection:
+
 ![image](https://github.com/user-attachments/assets/f357a475-5422-4708-a4d3-c1743b76e5e3)
 
 Phishing website detection:
+
 ![image](https://github.com/user-attachments/assets/f342aaf7-0841-4d6a-bbce-b38f840598f1)
